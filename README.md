@@ -4,8 +4,6 @@
 
 </div>
 
-<img align="right" width="150" alt="Dev Image" src="https://cdn-icons-png.flaticon.com/512/1177/1177568.png" />
-
 ## Sobre mim
 
 Sou desenvolvedor focado em **Java**, **Dart** (Flutter), e apaixonado por construir projetos web e mobile que impactam positivamente. Estou sempre estudando novas tecnologias e buscando me aprimorar no desenvolvimento front-end, back-end e mobile.
