@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&height=60&lines=🌐Bem+Vindo+ao+perfil+do+Pietro🌐 " alt="Bem Vindo ao perfil do Pietro" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&height=60&lines=Bem+Vindo+ao+perfil+do+Pietro" alt="Bem Vindo ao perfil do Pietro" />
 
 </div>
 
