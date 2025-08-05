@@ -1,4 +1,4 @@
-# ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&height=60&lines=Bem+Vindo+ao+perfil+do+Pietro)
+# ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&height=60&lines=Bem+Vindo+ao+perfil+do+Pietro)
 
 <img align="right" width="150" alt="Dev Image" src="https://cdn-icons-png.flaticon.com/512/1177/1177568.png" />
 
@@ -6,8 +6,8 @@
 
 Sou desenvolvedor focado em **Java**, **Dart** (Flutter), e apaixonado por construir projetos web e mobile que impactam positivamente. Estou sempre estudando novas tecnologias e buscando me aprimorar no desenvolvimento front-end, back-end e mobile.
 
-- 🔭 Projetos em destaque: **Guiapress**, **BarryAI**, **Mobile**
-- 🌱 Estudando constantemente: frameworks modernos, melhores práticas e integração contínua
+- 🔭 Projetos em destaque: **Guiapress**, **BarryAI**, **Mobile**  
+- 🌱 Estudando constantemente: frameworks modernos, melhores práticas e integração contínua  
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/pietro-amorim) | [Email](mailto:seuemail@exemplo.com)
 
 ---
