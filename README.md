@@ -1,7 +1,7 @@
-# 🚀 Bem-Vindo ao Perfil do Japonês! 🇯🇵
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Olá%2C+Eu+sou+o+Pietro+Amorim!;Desenvolvedor+Full+Stack;Especialista+em+Flutter;Apaixonado+por+Inovação" alt="Typing SVG" />
+  
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&height=60&lines=Bem+Vindo+ao+perfil+do+Japones" alt="Bem Vindo ao perfil do Japonês" />
+
 </div>
 
 ## 👨‍💻 Sobre Mim
