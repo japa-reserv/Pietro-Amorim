@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&height=60&lines=Bem+Vindo+ao+perfil+do+Japones" alt="Bem Vindo ao perfil do Japonês" />
 </div>
 
-![snake gif](https://github.com/Pietro-Amorim/Pietro-Amorim/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌿 Sobre Mim
 
@@ -77,6 +76,3 @@ public class PietroAmorim {
 [![Gmail](https://img.shields.io/badge/Gmail-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.amorim@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-388E3C?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuuser)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pietro-Amorim/count.svg" alt="Visitor Count" />
-</div>
