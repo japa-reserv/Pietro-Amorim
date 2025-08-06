@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&height=60&lines=Bem+Vindo+ao+perfil+do+Japones" alt="Bem Vindo ao perfil do Japonês" />
 </div>
 
+![snake gif](https://github.com/Pietro-Amorim/Pietro-Amorim/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌿 Sobre Mim
 
 ```java
