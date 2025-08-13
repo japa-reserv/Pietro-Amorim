@@ -1,19 +1,3 @@
-<p align="center">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width: 100%; height: 100px;">
-    <path d="M0,0 C300,100 900,0 1200,50 L1200,0 L0,0 Z" fill="#FFD700">
-      <animate 
-        attributeName="d" 
-        dur="5s" 
-        repeatCount="indefinite"
-        values="
-          M0,0 C300,100 900,0 1200,50 L1200,0 L0,0 Z;
-          M0,0 C300,50 900,100 1200,0 L1200,0 L0,0 Z;
-          M0,0 C300,100 900,0 1200,50 L1200,0 L0,0 Z
-        " />
-    </path>
-  </svg>
-</p>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&height=60&lines=Bem+Vindo+ao+perfil+do+Japones" alt="Bem Vindo ao perfil do Japonês" />
@@ -101,19 +85,3 @@ public class PietroAmorim {
 [![Twitter](https://img.shields.io/badge/Twitter-FFD600?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/pietroamorim)
 hields.io/badge/Twitter-00C853?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pietroamorim)
 style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuuser)
-
-<p align="center">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width: 100%; height: 100px;">
-    <path d="M0,0 C300,100 900,0 1200,50 L1200,0 L0,0 Z" fill="#FFD700">
-      <animate 
-        attributeName="d" 
-        dur="5s" 
-        repeatCount="indefinite"
-        values="
-          M0,0 C300,100 900,0 1200,50 L1200,0 L0,0 Z;
-          M0,0 C300,50 900,100 1200,0 L1200,0 L0,0 Z;
-          M0,0 C300,100 900,0 1200,50 L1200,0 L0,0 Z
-        " />
-    </path>
-  </svg>
-</p>
