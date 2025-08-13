@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=500&height=60&lines=Bem+Vindo+ao+perfil+do+Japonês" alt="Bem Vindo ao perfil do Japonês" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFF33&center=true&vCenter=true&width=600&height=60&lines=💡+Bem+Vindo+ao+perfil+do+Japonês" alt="Bem Vindo ao perfil do Japonês" />
 </div>
+
 
 
 ## 🌿 Sobre Mim
