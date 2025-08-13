@@ -25,36 +25,40 @@ public class PietroAmorim {
 ## 🛠️ Stack Tecnológica
 
 ### 🌱 Linguagens Principais
-![Java](https://img.shields.io/badge/Java-00C853?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-00C853?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00E676?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00C853?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD600?style=for-the-badge&logo=openjdk&logoColor=000000)
+![Dart](https://img.shields.io/badge/Dart-FFD600?style=for-the-badge&logo=dart&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFD600?style=for-the-badge&logo=typescript&logoColor=000000)
 
 ### 🍃 Front-end
-![Angular](https://img.shields.io/badge/Angular-00C853?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-00C853?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00C853?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00C853?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FFD600?style=for-the-badge&logo=angular&logoColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-FFD600?style=for-the-badge&logo=flutter&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-FFD600?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-FFD600?style=for-the-badge&logo=css3&logoColor=000000)
 
 ### 🌳 Back-end
-![Node.js](https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-00C853?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FFD600?style=for-the-badge&logo=node.js&logoColor=000000)
+![Spring](https://img.shields.io/badge/Spring-FFD600?style=for-the-badge&logo=spring&logoColor=000000)
 
 ### 🏡 Banco de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-00C853?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00C853?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFD600?style=for-the-badge&logo=mongodb&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-FFD600?style=for-the-badge&logo=mysql&logoColor=000000)
 
 ### ⚙️ DevOps & Ferramentas
-![Git](https://img.shields.io/badge/Git-00C853?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00C853?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFD600?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-FFD600?style=for-the-badge&logo=docker&logoColor=000000)
+
+---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro-Amorim&show_icons=true&theme=vue-dark&bg_color=00C853&title_color=fff&icon_color=00E676&text_color=fff&border_color=00E676"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Amorim&layout=compact&langs_count=7&theme=vue-dark&bg_color=00C853&title_color=fff&text_color=fff&border_color=00E676"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro-Amorim&show_icons=true&theme=vue-dark&bg_color=000000&title_color=FFD600&icon_color=FFD600&text_color=B0BEC5&border_color=FFD600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Amorim&layout=compact&langs_count=7&theme=vue-dark&bg_color=000000&title_color=FFD600&text_color=B0BEC5&border_color=FFD600"/>
 </div>
+
+---
 
 ## 💡 Projetos Destacados
 
@@ -64,16 +68,21 @@ public class PietroAmorim {
 | [GuiaPress](https://github.com/Pietro-Amorim/GuiaPress) | JavaScript, Node.js | Sistema de gerenciamento de conteúdo | 🟡 Em desenvolvimento |
 | [Flutter Apps](https://github.com/Pietro-Amorim/Mobile) | Flutter, Dart | Coleção de aplicativos mobile | 🔵 Publicado |
 
+---
+
 ## 🌱 Atualmente Aprendendo
 
 - 🏗️ Arquitetura de Microsserviços
 - 🧠 Inteligência Artificial aplicada
 - ⚡ Otimização de desempenho em Flutter
 
+---
+
 ## 📫 Como Me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-amorim)
-[![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.amorim@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-00C853?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pietroamorim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD600?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pietro-amorim)
+[![Gmail](https://img.shields.io/badge/Gmail-FFD600?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pietro.amorim@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-FFD600?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/pietroamorim)
+hields.io/badge/Twitter-00C853?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pietroamorim)
 style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuuser)
 
