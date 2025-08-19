@@ -83,6 +83,3 @@ public class PietroAmorim {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pietro-amorim)
 [![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pietro.amorim@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-00C853?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/pietroamorim)
-g.shields.io/badge/Twitter-FFD600?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/pietroamorim)
-hields.io/badge/Twitter-00C853?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pietroamorim)
-style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuuser)
