@@ -1,3 +1,6 @@
+<!-- Header SVG -->
+[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14)](https://github.com/kyechan99/capsule-render)
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com  ?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&height=60&lines=Bem+Vindo+ao+perfil+do+Japones" alt="Bem Vindo ao perfil do Japonês" />
 </div>
