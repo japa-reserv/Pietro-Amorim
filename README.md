@@ -1,120 +1,251 @@
+<!-- Última actualización: 2025-09-09 01:19:06 UTC -->
+
+<!-- Header SVG -->
+[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14)](https://github.com/kyechan99/capsule-render)
+
+###
+
+<!-- Mensaje bienvenida -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+@marichu_kt's+repository;BemVindo+ao+repositorio+do+Japones;Добро+пожаловать+в+репозиторий+@marichu_kt;مرحبًا+بك+في+مستودع+@marichu_kt;@marichu_kt+के+रिपॉजिटरी+में+आपका+स्वागत+है;欢迎来到@pietro_kt的仓库;@pietro+のリポジトリへようこそ&center=true&size=36&color=39FF14&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
+  </a>
+</h1>
+
+###
+
+<!-- Banner -->
+<img src="/assets/banner.png" alt="Banner personal" width="100%" />
+
+###
+
+<!-- Stats generales -->
 <div align="center">
-
-### 🎯 Bem-vindo ao meu universo digital!
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1500&color=4CAF50&center=true&vCenter=true&width=550&height=70&lines=Bem+vindo+ao+perfil+do+Japonês!+%F0%9F%87%AF%F0%9F%87%B5;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia+%F0%9F%92%BB;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais+%F0%9F%9A%80" alt="Typing SVG" />
-
----
-
-🎓 **Pietro Amorim** — Criador de código, resolvedor de problemas e eterno aprendiz.  
-📍 Brasil | 🌍 Remoto | 💼 Open to opportunities
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-amorim)
-[![Gmail](https://img.shields.io/badge/-Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.amorim@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-00C853?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pietroamorim)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=marichu-kt&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marichu-kt&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
+  </a>
 </div>
 
----
+###
 
-## 🧑‍💻 Sobre Mim (em código, é claro!)
+<!-- Lenguajes, Herramientas y Plataformas -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Fila 1 -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,cs,java,matlab,r" />
+    <br/>
+    <!-- Fila 2 -->
+    <img src="https://skillicons.dev/icons?i=latex,bash,cmake,php,nodejs,git,mysql,sqlite,mongodb,dotnet" />
+    <br/>
+    <!-- Fila 3 -->
+    <img src="https://skillicons.dev/icons?i=raspberrypi,powershell,bootstrap,jquery,windows,ubuntu,debian,kali,linux,arch" />
+    <br/>
+    <!-- Fila 4 -->
+    <img src="https://skillicons.dev/icons?i=wordpress,clion,visualstudio,vscode,github,stackoverflow,markdown,instagram,twitter,linkedin" />
+  </a>
+</p>
 
-```java
-public class PietroAmorim {
-    public static void main(String[] args) {
-        System.out.println("🚀 Desenvolvedor Full Stack com foco em EXPERIÊNCIA e IMPACTO.");
-        
-        String[] stack = {"Java ☕", "Flutter 🦋", "JavaScript 🌐", "Angular ⚡"};
-        String mindset = "Clean Code + User First + Always Learning";
-        String mission = "Construir soluções que simplificam vidas e escalam negócios.";
-        
-        for (String tech : stack) {
-            System.out.println("✅ Dominando: " + tech);
-        }
-        
-        System.out.println("\n🧠 Mindset: " + mindset);
-        System.out.println("🎯 Missão: " + mission);
-        System.out.println("\n💡 Curiosidade: Me chamam de 'Japonês' por causa da disciplina e foco!");
-    }
-}
+>[!NOTE]
+> 📝 Above this note, I've listed all the programming languages and technologies I've used in my life so far.
+
+###
+
+<!-- Proyectos / Repositorios -->
+<p align="center">
+  <img src="assets/projects.png" alt="Projects" width="60%" />
+</p>
+
+>[!TIP]
+> 🌟 **Support matters!** If you find any of these projects useful or interesting, please consider giving them a **star ⭐**. Every bit of encouragement helps me keep building awesome things 🚀. Thanks for your support! 🙌
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marichu-kt/ChaCha20-Poly1305-X25519">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=ChaCha20-Poly1305-X25519&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250909" alt="ChaCha20-Poly1305-X25519">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marichu-kt/WEBSITE-CAPTCHA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=WEBSITE-CAPTCHA&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250909" alt="WEBSITE-CAPTCHA">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/marichu-kt/Vending-Machine-CSharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Vending-Machine-CSharp&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250909" alt="Vending-Machine-CSharp">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marichu-kt/Slot-Machine-CSharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Slot-Machine-CSharp&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250909" alt="Slot-Machine-CSharp">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/marichu-kt/QR-Generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=QR-Generator&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250909" alt="QR-Generator">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marichu-kt/GitHub-Unfollowed">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=GitHub-Unfollowed&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250909" alt="GitHub-Unfollowed">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/marichu-kt/VoluntApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=VoluntApp&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250909" alt="VoluntApp">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marichu-kt/SecureBank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=SecureBank&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250909" alt="SecureBank">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/marichu-kt/Hercules-SETUP-Utility">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Hercules-SETUP-Utility&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250909" alt="Hercules-SETUP-Utility">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marichu-kt/ArqueoPedia-Fossils-Website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=ArqueoPedia-Fossils-Website&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250909" alt="ArqueoPedia-Fossils-Website">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/marichu-kt/PortfolioHub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=PortfolioHub&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250909" alt="PortfolioHub">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <strong style="color:#b0e0e6; font-size: 20px;">🚧 Coming Soon!!! 🚧</strong>
+    </td>
+  </tr>
+</table>
+
+###
+
+> [!IMPORTANT]  
+> This is the tree-structured layout of my repository **"marichu-kt"**, useful to understand how everything is organized.
+
+<!-- Mermaid -->
+```mermaid
+graph TD
+  A[marichu-kt] --> B[.github/]
+  B --> C[workflows/]
+  C --> D[generate.yml]
+  C --> K[readme-update.yml]
+  C --> L[profile-3d.yml]
+
+  A --> E[assets/]
+  E --> F[banner.png]
+  E --> I[btc_qr.png]
+  E --> J[projects.png]
+  E --> N[line-knowledge.png]
+  E --> O[radar-motivation.png]
+
+  A --> M[profile-3d-contrib/]
+  M --> M1[profile-night-green.svg]
+
+  A --> G[README.md]
+  A --> H[LICENSE]
 ```
 
----
+###
 
-## 🛠️ Minha Caixa de Ferramentas
-
-### 💻 Linguagens & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-479CFF?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🚀 DevOps & Outras Magias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-## 📈 GitHub Stats — Meu DNA em números
-
+<!-- Donaciones -->
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Pietro-Amorim&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=B0BEC5&border_radius=10&border_color=00C853" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Amorim&layout=compact&langs_count=6&theme=vue-dark&bg_color=0D1117&title_color=00C853&text_color=B0BEC5&border_radius=10&border_color=00C853" />
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
+    </td>
+  </tr>
+  <tr>
+    <th>₿ BTC</th>
+    <th>Address</th>
+    <th>QR Code</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://es.wikipedia.org/wiki/Bitcoin" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
+      </a>
+    </td>
+    <td><code>bc1qa83g3mxrzrw52ke0lvt4qr36qpywqykgt74f2g</code></td>
+    <td><img src="/assets/btc_qr.png" width="100" alt="BTC QR Code" /></td>
+  </tr>
+</table>
 </div>
 
----
+###
 
-## 🌟 Projetos que me orgulho
+<!-- Contador de visitas paises (FlagCounter) -->
+<p align="center">
+  <a href="https://info.flagcounter.com/24qY">
+    <img src="https://s01.flagcounter.com/count2/24qY/bg_303030/txt_FFFFFF/border_3F4D38/columns_8/maxflags_248/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+</p>
 
-| Projeto | Status | Tecnologias | Descrição |
-|---------|--------|-------------|-----------|
-| [**BarryAI**](https://github.com/Pietro-Amorim/BarryAI) | 🚀 **Produção** | HTML, CSS, JS | Assistente virtual inteligente para suporte automatizado. |
-| [**GuiaPress**](https://github.com/Pietro-Amorim/GuiaPress) | 🛠️ **Em desenvolvimento** | Node.js, JavaScript | CMS moderno para jornalistas e publishers. |
-| [**Flutter Apps**](https://github.com/Pietro-Amorim/Mobile) | 📱 **Publicado** | Flutter, Dart | Conjunto de apps úteis para produtividade e entretenimento. |
+###
 
-> 💡 Dica: Clique nos links para explorar o código e ver como as coisas funcionam por trás dos panos!
+<!-- Diagramas "Escritos a mano" -->
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
+        <a href="https://github.com/timqian/chart.xkcd">
+          <img src="assets/line-knowledge.png" alt="Knowledge vs Humility" height="300"/>
+        </a>
+      </td>
+      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
+        <a href="https://github.com/timqian/chart.xkcd">
+          <img src="assets/radar-motivation.png" alt="Programming Motivation Radar" height="300"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
----
+###
 
-## 📚 Estudando Agora — Próxima Evolução
+<!-- Grafico de actividad GitHub -->
+[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=marichu-kt&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
 
-- 🧬 **Microsserviços com Spring Cloud** — Escalando aplicações como um pro!
-- 🤖 **IA Generativa & LLMs** — Integrando inteligência artificial em produtos reais.
-- 🦾 **Performance no Flutter** — 60fps garantidos, sempre.
-- ☁️ **AWS/GCP Fundamentals** — Preparando para certificações cloud.
+###
 
----
+<!-- Contribuciones 3D GitHub -->
+[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-## 🎁 Curiosidades Rápidas
+###
 
-- 🎵 Ouço lo-fi e synthwave enquanto codifico.
-- 🍵 Amo café (e chá verde, em homenagem ao apelido 😄).
-- 📚 Leio 1 livro técnico por mês — atual: “Clean Architecture”.
-- 🎮 Game favorito: Hollow Knight — desafiador como um bom bug pra resolver!
+<!-- Snake Animation con enlace a Platane/snk -->
+<a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
+  <img
+    alt="github contribution snake dark"
+    src="https://raw.githubusercontent.com/marichu-kt/marichu-kt/output/github-snake-dark.svg"
+  />
+</a>
 
----
+###
 
-## 🤝 Vamos Construir Juntos?
+<!-- Contador de visitas -->
+<p align="center">
+  <a href="https://count.getloli.com/" target="_blank">
+    <img src="https://count.getloli.com/get/@marichu-kt_repo?theme=3d-num" alt="Visitor counter" />
+  </a>
+</p>
 
-Estou sempre aberto a:
-- Projetos open-source 🌍
-- Colaborações técnicas 🤝
-- Oportunidades profissionais 💼
-- Troca de ideias sobre tecnologia ☕
+###
 
-**Mande uma mensagem — adoro conversar sobre código, inovação e desafios!**
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20por%20visitar!%20🚀&fontSize=30&fontColor=00C853&animation=twinkling" />
-</div>
+<!-- Footer SVG -->
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render)
