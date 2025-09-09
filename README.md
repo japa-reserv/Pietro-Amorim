@@ -1,9 +1,14 @@
-<!-- Header SVG -->
-[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14)](https://github.com/kyechan99/capsule-render)
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com  ?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&height=60&lines=Bem+Vindo+ao+perfil+do+Japones" alt="Bem Vindo ao perfil do Japonês" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Bem-Vindo%20ao%20perfil%20do%20Japones!%20🚀&fontSize=30&fontColor=00C853&animation=twinkling" />
 </div>
+
+<!-- Snake Animation con enlace a Platane/snk -->
+<a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
+  <img
+    alt="github contribution snake dark"
+    src="https://raw.githubusercontent.com/marichu-kt/marichu-kt/output/github-snake-dark.svg"
+  />
+</a>
 
 
 ## 🌿 Sobre Mim
