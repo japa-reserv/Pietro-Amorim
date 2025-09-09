@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Bem-Vindo%20ao%20perfil%20do%20Japones!%20🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Bem-Vindo%20ao%20Perfil%20do%20Japonês!%20🎌%20🚀&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 </div>
 
 <!-- Snake Animation con enlace a Platane/snk -->
