@@ -40,8 +40,7 @@ public class PietroAmorim {
 ### 🍃 Front-end
 ![Angular](https://img.shields.io/badge/Angular-00C853?style=for-the-badge&logo=angular&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter-00C853?style=for-the-badge&logo=flutter&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=html5&logoColor=000000)
-![SCSS](https://img.shields.io/badge/SCSS-00C853?style=for-the-badge&logo=css3&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=000000)
 
 ### 🌳 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=node.js&logoColor=000000)
