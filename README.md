@@ -40,12 +40,11 @@ public class PietroAmorim {
 ### 🍃 Front-end
 ![Angular](https://img.shields.io/badge/Angular-00C853?style=for-the-badge&logo=angular&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter-00C853?style=for-the-badge&logo=flutter&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-00C853?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-00C853?style=for-the-badge&logo=css3&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=html5&logoColor=000000)
+![SCSS](https://img.shields.io/badge/SCSS-00C853?style=for-the-badge&logo=css3&logoColor=000000)
 
 ### 🌳 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=node.js&logoColor=000000)
-![Spring](https://img.shields.io/badge/Spring-00C853?style=for-the-badge&logo=spring&logoColor=000000)
 
 ### 🏡 Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-00C853?style=for-the-badge&logo=mongodb&logoColor=000000)
@@ -54,7 +53,6 @@ public class PietroAmorim {
 ### ⚙️ DevOps & Ferramentas
 ![Git](https://img.shields.io/badge/Git-00C853?style=for-the-badge&logo=git&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-00C853?style=for-the-badge&logo=docker&logoColor=000000)
 
 ---
 
@@ -88,6 +86,5 @@ public class PietroAmorim {
 ## 📫 Como Me Encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pietro-amorim  )
-[![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pietro.amorim@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-00C853?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/pietroamorim  )
+[![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pietro.amorim.fernandes.2007@gmail.com)
 
