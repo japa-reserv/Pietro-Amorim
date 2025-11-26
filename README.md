@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/e01bda3e-fa4f-4e18-9962-f2591c6b57ec](https://github.com/user-attachments/assets/4469c314-3227-469d-8b99-e7ee0316172c)" alt="Demo" />
+  <img src="https://github.com/user-attachments/assets/c83c9150-a238-417a-9b4c-c02d6f8f0d5d" alt="Demo" />
 </p>
 
+![vid2]()
