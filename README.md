@@ -14,3 +14,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6ecc2df-c83f-4529-b60b-5faabbaf3f87" alt="Demo" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4686fa3-dcb8-4cf0-b0ca-9a88008d2408" alt="Demo" />
+</p>
+
