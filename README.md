@@ -1,10 +1,13 @@
+![Ninja Verde](https://media.giphy.com/media/tZCkL6BsL2AAo/giphy.gif)
+
+
+![Ninja Pixel](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Nm5rbXg1eXg5eXg5eXg5eXg5eXg5eXg5eXg5eXg5eXg/iGZmUgw951T2/giphy.gif)
+
+
+b![Tartaruga Ninja](https://media.giphy.com/media/kwCJA19mepUJS/giphy.gif)
+
+
+
 <div align="center">
-  <h3>O Dev Ninja em Ação! 🥷</h3>
-  <img src="https://i.imgur.com/g0t6M75.gif" alt="Ninja Correndo Pixel Art" width="250px"/>
-  <p>Furtivo, eficiente e sempre avançando na arte do código.</p>
-</div>
-<div align="center">
-  <h3>O Dev Ninja em Ação! 🥷</h3>
-  <img src="https://i.imgur.com/g0t6M75.gif" alt="Ninja Correndo Pixel Art" width="250px"/>
-  <p>Furtivo, eficiente e sempre avançando na arte do código.</p>
+  <img src="https://media.giphy.com/media/tZCkL6BsL2AAo/giphy.gif" width="300" />
 </div>
