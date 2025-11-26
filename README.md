@@ -10,3 +10,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4202f179-6150-49a1-aec0-c5ba22165086" alt="Demo" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6ecc2df-c83f-4529-b60b-5faabbaf3f87" alt="Demo" />
+</p>
